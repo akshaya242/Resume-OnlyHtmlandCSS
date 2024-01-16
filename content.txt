@@ -1,0 +1,52 @@
+A normal html boiler plate
+//the title would be myresume
+
+//introduction
+what all i shd include
+*a photo of me in the left 
+*name and what am studying in the beginning
+a small paragraph as a summary
+
+horizontal line
+
+//the main content:
+
+
+//Education
+Education - probably a table with category and score
+class 10
+class 12
+jee mains
+
+/skills
+Skills  - try a flex box
+dsa in c
+oop in java
+python basics
+html css for development 
+
+//work experience
+Work Experience
+served as core member in GDSC - Conducting fest events
+
+
+
+//projects
+Projects till date  - grid of 2 x 3 
+*a resume only using html (DONE)
+* My country flag using css (DONE)
+* mandorian painting  (DONE)
+* website to conduct an event in my college (DONE)
+
+*any Other bootstrap project (YET TO)
+*canva website (YET TO)
+
+
+//footer
+About Me - Hobbies, Languages known, Interests  - link to another webpage 
+Contact Me - link to another webpage - have a card as the theme 
+copyright - simply
+
+
+
+
